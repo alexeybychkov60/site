@@ -259,11 +259,11 @@ li > .download .wrap .content {
 .icon.file {
   width: 30px;
   height: 40px;
-  background: no-repeat url(/content/icons/file.svg);
+  background: no-repeat url(./content/icons/file.svg);
 }
 
 .icon.download {
   width: 30px;
   height: 40px;
-  background: no-repeat url(/content/icons/download.svg);
+  background: no-repeat url(./content/icons/download.svg);
 }
